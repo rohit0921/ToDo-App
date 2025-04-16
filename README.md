@@ -18,8 +18,11 @@ This app allows users to:
 🚀 Features
 
 User-friendly interface
+
 Real-time task management
+
 Persistent data with localStorage
+
 Clean and responsive design
 
 ------------------------------------------------
@@ -27,7 +30,10 @@ Clean and responsive design
 🛠️ Tech Stack
 
 React – Frontend UI
+
 JavaScript – Logic handling
+
 Tailwind CSS – Styling and structure
+
 localStorage – Client-side data persistence
 
