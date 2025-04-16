@@ -37,3 +37,10 @@ Tailwind CSS – Styling and structure
 
 localStorage – Client-side data persistence
 
+------------------------------------------------
+
+📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/6c73cb31-7521-482b-9c85-885decea96d8)
+
+
