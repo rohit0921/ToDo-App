@@ -42,6 +42,3 @@ localStorage – Client-side data persistence
 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/6c73cb31-7521-482b-9c85-885decea96d8)
-
-
->>>>>>> b6269a81e19752a8e833dbc684603a3c42cde8dd
