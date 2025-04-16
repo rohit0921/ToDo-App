@@ -8,7 +8,9 @@ A simple and minimal Todo App built using React.
 This app allows users to:
 
 ✅ Add tasks
+
 ❌ Delete tasks
+
 💾 Store tasks in localStorage so your list remains even after refreshing the page
 
 ------------------------------------------------
