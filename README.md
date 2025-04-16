@@ -1,12 +1,47 @@
-# React + Vite
+# ToDo-App
+This is a simple Todo App built with React. It allows users to add and delete tasks, and uses the browser's local storage to save tasks.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+------------------------------------------------
+📝 Todo App
 
-Currently, two official plugins are available:
+A simple and minimal Todo App built using React.
+This app allows users to:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Add tasks
 
-## Expanding the ESLint configuration
+❌ Delete tasks
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💾 Store tasks in localStorage so your list remains even after refreshing the page
+
+------------------------------------------------
+
+🚀 Features
+
+User-friendly interface
+
+Real-time task management
+
+Persistent data with localStorage
+
+Clean and responsive design
+
+------------------------------------------------
+
+🛠️ Tech Stack
+
+React – Frontend UI
+
+JavaScript – Logic handling
+
+Tailwind CSS – Styling and structure
+
+localStorage – Client-side data persistence
+
+------------------------------------------------
+
+📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/6c73cb31-7521-482b-9c85-885decea96d8)
+
+
+>>>>>>> b6269a81e19752a8e833dbc684603a3c42cde8dd
